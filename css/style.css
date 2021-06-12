@@ -1,0 +1,5 @@
+.wrap{display:grid}
+.head-wrap{width:100%;height:100px; background-color: red; margin-right: 1%;
+display:inline-block; vertical-align: right;}
+
+.items{float:left; margin: 10px; background-color: WHITE;}
